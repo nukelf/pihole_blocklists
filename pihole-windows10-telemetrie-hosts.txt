@@ -1,0 +1,19 @@
+# Hosts for Microsoft Windows 10 Telemetry
+
+0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v10c.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 umwatsonc.telemetry.microsoft.com
+0.0.0.0 umwatsonc.events.data.microsoft.com
+0.0.0.0 ceuswatcab01.blob.core.windows.net
+0.0.0.0 ceuswatcab02.blob.core.windows.net
+0.0.0.0 eaus2watcab01.blob.core.windows.net
+0.0.0.0 eaus2watcab02.blob.core.windows.net
+0.0.0.0 weus2watcab01.blob.core.windows.net
+0.0.0.0 weus2watcab02.blob.core.windows.net
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 oca.microsoft.com
+0.0.0.0 kmwatsonc.telemetry.microsoft.com
+0.0.0.0 settings-win.data.microsoft.com
