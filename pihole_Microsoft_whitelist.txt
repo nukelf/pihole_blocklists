@@ -1,0 +1,37 @@
+# Windows 10 Updates
+a-msedge.net
+slscr.update.microsoft.com
+v10.vortex-win.data.microsoft.com
+settings-win.data.microsoft.com
+
+
+# Windows Internet Verbindungsprüfung
+www.msftncsi.com
+msftncsi.com
+ipv6.msftncsi.com
+
+# Microsoft Web Pages (Outlook, Office365, Live,Microsoft.com)
+
+outlook.office365.com
+products.office.com
+c.s-microsoft.com
+i.s-microsoft.com
+login.live.com
+login.microsoftonline.com
+
+# Backup Bitlocker recovery Key zu Microsoft
+g.live.com
+
+# Skype
+s.gateway.messenger.live.com
+client-s.gateway.messenger.live.com
+ui.skype.com
+pricelist.skype.com
+apps.skype.com
+m.hotmail.com
+sa.symcb.com
+s{1..5}.symcb.com
+
+# Microsoft Office
+officeclient.microsoft.com
+
